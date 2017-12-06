@@ -1,18 +1,18 @@
 # 🎁 Big Red Gifts - Logistics subteam (Oct 2017 - Dec 2017)
-Logistic related tools for https://bigred.gifts, a campus-wide gift exchange organized by Creative Computing Club at Cornell University. Commit history has kept in private repo to avoid sharing various student data.
+Logistic related tools for https://bigred.gifts, a campus-wide gift exchange organized by Creative Computing Club at Cornell University. Commit history has been kept in private repo to avoid sharing various student data.
 ### Team Members
 * Valeriya Rusina '20  
 * Wilona Shen '20  
 * Chris Umeki '19  
 * Mena Wang '20
-### Running
+### Dependencies
 Before installing, have [Node.js](https://nodejs.org/en/download/).
 
 Install dependencies with
 ```bash
 $ npm install
 ```
-Run
+### Run
 
 Generate a specific student's mailing label as webcontent
 ```bash
