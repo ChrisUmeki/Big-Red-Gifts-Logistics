@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+
+*.db
+#For pulbic release, don't want fake data getting committed either
+#!fakedata.db
