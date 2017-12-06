@@ -1,4 +1,4 @@
-# Big Red Gifts - Logistics subteam (Oct 2017 - Dec 2017)
+# 🎁 Big Red Gifts - Logistics subteam (Oct 2017 - Dec 2017)
 Logistic related tools for https://bigred.gifts, a campus-wide gift exchange organized by Creative Computing Club at Cornell University. Commit history has kept in private repo to avoid sharing various student data.
 ### Team Members
 * Valeriya Rusina '20  
@@ -14,19 +14,20 @@ $ npm install
 ```
 Run
 
+Generate a specific student's mailing label as webcontent
 ```bash
 $ npm run-script label
 ```
-
+Send an email to each student in database. Assigns each student their match and gives relevant information about their match.
 ```bash
 $ npm run-script matchemail
 ```
-
+Send a mass email to all students who selected in person exchange rather than mail exchange
 ```bash
 $ npm run-script eventreminder
 ```
 
-Database information stored in the sqlite with following schema
+Database information stored in SQLite with following schema.
 
 ```sqlite
 CREATE TABLE info(id INTEGER PRIMARY KEY AUTOINCREMENT,
