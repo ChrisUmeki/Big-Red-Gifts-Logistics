@@ -1,5 +1,5 @@
-# 🎁 Big Red Gifts - Logistics Subteam (Oct 2017 - Dec 2017)
-Logistic related tools for https://bigred.gifts, a campus-wide gift exchange organized by Creative Computing Club at Cornell University. Commit history has been kept in private repo to avoid sharing various student data.
+# 🎁 Big Red Gifts - Logistics Subteam
+Logistic related tools for https://bigred.gifts, a campus-wide gift exchange organized by Creative Computing Club at Cornell University. Subteam worked on project from Oct. 2017 - Dec. 2017; Commit history has been kept in private repo to avoid sharing various student data.
 ### Subteam Members
 * Valeriya Rusina '20  
 * Wilona Shen '20  
